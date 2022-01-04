@@ -1,0 +1,47 @@
+body{
+    /* background-color: blueviolet;     Test */
+}
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+#exzoom{
+    position: absolute;
+    width: 400px;
+}
+#exzoom img{
+     /* margin: 0 !important; */
+    
+}
+.zoom-img img{
+    /* width: 500px; */
+}
+
+/* h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+} */
+
+
+
+/* .img-container img{
+    width: 100%;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
